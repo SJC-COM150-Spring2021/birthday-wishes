@@ -7,7 +7,7 @@
 <li>Use a MessageBox to output information</li>
 <li>Use a ListBox to output information</li><li>Use Concatenation</li>
 </ul><h3>Instructions</h3>
-<ol><li>Before you code: Create an algorithm (Identify your inputs, identify the steps of your process, identify your outputs</li>
+<ol><li>Before you code: Create an algorithm (Identify your inputs, identify the steps of your process, identify your outputs)</li>
 <li>Create a new XOJO Desktop Application named 'Birthday Wishes' and save it to your local course folder</li>
 <li>Design your form by adding the necessary controls.  Play with control properties to change colors/backgrounds</li>
 <li>Write the code to display a Message Box and output information to a ListBox</li>
