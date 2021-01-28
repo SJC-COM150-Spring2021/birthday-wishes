@@ -2,7 +2,7 @@
 <p>The purpose of this exercise is to create a program that takes in the users' name, says thank you and then 'sing's them happy birthday using the following controls:  a Label, a TextBox, a ListBox, a Message Box and a Button.</p>
 <h3>In this exercise, you will:</h3>
 <ul><li>Create an algorithm</li>
-<li>Work with adding Controls to a Visual Basic Form</li>
+<li>Work with adding Controls to a XOJO Application</li>
 <li>Use a Textbox to intake information</li>
 <li>Use a MessageBox to output information</li>
 <li>Use a ListBox to output information</li><li>Use Concatenation</li>
